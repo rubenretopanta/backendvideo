@@ -1,9 +1,10 @@
 {
   "name": "mini-backend",
   "version": "1.0.0",
+  "type": "module",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -13,3 +14,4 @@
     "express": "^5.1.0"
   }
 }
+
